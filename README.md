@@ -21,5 +21,6 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
-<p>https://skillicons.dev/icons?i=python,javascript,linux
-</p>
+![Skills](https://skillicons.dev/icons?i=python,javascript,linux)
+<img src="https://skillicons.dev/icons?i=python,javascript,linux" alt="Skills">
+
