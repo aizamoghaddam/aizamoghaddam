@@ -21,4 +21,5 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
-<p></p>
+<p>https://skillicons.dev/icons?i=python,javascript,linux
+</p>
